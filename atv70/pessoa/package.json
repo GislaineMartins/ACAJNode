@@ -1,0 +1,12 @@
+{
+  "name": "pessoa",
+  "version": "1.0.0",
+  "description": "exercicio pessoa e cliente",
+  "main": "TestePessoaCliente.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gislaine",
+  "license": "ISC",
+  "type": "module"
+}
